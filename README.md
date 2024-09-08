@@ -2,7 +2,6 @@
 
 <h1 align="center">Hello 👋, I'm Fazlul Karim</h1>
 <h3 align="center">A Computer Science and Engineering Undergrad from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Poridhi.io**.
 - 🌱 I’m currently learning **DevOps** and **Machine Learning**.
@@ -18,6 +17,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
