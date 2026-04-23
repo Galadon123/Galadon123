@@ -1,4 +1,3 @@
-<h1 align="center">Fazlul Karim</h1>
 <p align="center"><strong>Backend Engineer • DevOps • AI Systems</strong></p>
 
 <p align="center">
@@ -58,6 +57,6 @@ across distributed applications.
 
 ### Contact
 
-* Email: [fazlulkarim362@icloud.com](mailto:fazlulkarim362@icloud.com)
+* Email: [fazlulkarim362@icloud.com](mailto:fazlulkarim362@gmail.com)
 * GitHub: https://github.com/Galadon123
 * LinkedIn: https://www.linkedin.com/in/mohammad-fazlul-karim-0125741b4/
